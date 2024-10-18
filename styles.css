@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-main{
+div{
 	padding:20px;
 	background-color:lightgreen;
 }
 
-div{
+div>div{
 	padding:2px;
 	margin:10px;
 	border:1px solid black;
